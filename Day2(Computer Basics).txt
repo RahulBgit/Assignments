@@ -1,6 +1,6 @@
 1.Any Electronic Device that takes input from the user and produces the output and only understands binary language.
 
-2.It is also known as Primary Memory,Main memory and Internal Memory.It is directly connected to the processor,sends all the data to the processor to execute.
+2.It is also known as Primary Memory,Main memory and Internal Memory.It is directly connected to the processor,With this processor can directly access the data over data bus.
 
 3.In Computer Data is Stored in Memory.
 
