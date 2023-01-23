@@ -1,12 +1,12 @@
-1.Any Electronic Device that takes input from the user and produces the output.
+1.Any Electronic Device that takes input from the user and produces the output and only understands binary language.
 
-2.It is also known as Primary Memory,Main memory and Internal Memory.It is directly connected to the processor,sends all the data.
+2.It is also known as Primary Memory,Main memory and Internal Memory.It is directly connected to the processor,sends all the data to the processor to execute.
 
 3.In Computer Data is Stored in Memory.
 
 4.Keyboard is the input device used to type text and numbers on a document in the computer system.
 
-5.Monitor,Printer,Speaker are the output devices.
+5.Monitor,Printer,Speaker,Plotter are the output devices.
 
 6.Mouse is the input device that allows a user to move the cursor or pointer on the screen.
 
