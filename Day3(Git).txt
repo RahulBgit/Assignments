@@ -1,0 +1,16 @@
+1.Git is a version control system used for tracking code changes and coding collaborations.
+
+2.It is a System that records changes to a file or a set of files,For every Source code change in a file a new version will be created. 
+
+3.Github is a popular git hosting service,Which it is used to store and maintain the source code of the project.
+
+4.Github,Git Lab,Bit Bucket,Git Blit.
+
+5.There are two types of Version Control Systems,They are
+	 a.Centralized Version Control System(CVCS) b.Distributed Version Control System(DVCS).
+
+6.We can track any code changes,It let us know the history of tracking like who made changes,It is used for collaborating with project team members who has access.
+
+7.A git repository tracks and saves the history of all changes made to a project.
+
+8.By using a command called "git init".
